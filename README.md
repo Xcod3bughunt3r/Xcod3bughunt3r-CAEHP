@@ -4,12 +4,12 @@
 <center><h3><i>Certificate Advanced Ethical Hackers Professionals</i></h3></center>
 
 <center><h4><i>
-<a href="https://github.com/Xcod3bughunt3r/blob/main/Xcod3bughunt3r-CAEHP/01-Introduction-for-Hackers.md">01 Introduction</a><br>
+<a href="https://github.com/Xcod3bughunt3r/main/Xcod3bughunt3r-CAEHP/01-Introduction-for-Hackers.md">01 Introduction</a><br>
 <a href="https://github.com/Xcod3bughunt3r/blob/main/Xcod3bughunt3r-CAEHP/02-Programming-for-Hacking.md">02 Programming</a><br>
 <a href="https://github.com/Xcod3bughunt3r/blob/main/Xcod3bughunt3r-CAEHP/03-GNU-Linux-Basic.md">03 GNU Linux Basic</a><br>
 <a href="https://github.com/Xcod3bughunt3r/blob/main/Xcod3bughunt3r-CAEHP/04-AnonSurf-Proxy.md">04 AnonSurf Proxy</a><br>
 <a href="https://github.com/Xcod3bughunt3r/blob/main/Xcod3bughunt3r-CAEHP/05-Information-Gathering.md">05 Information Gathering</a><br>
-<a href="https://github.com/Xcod3bughunt3r/blob/main/Xcod3bughunt3r-CAEHP/06-Scanning.md">06 Scanning</a><br>
+<a href="https://github.com/Xcod3bughunt3r/main/Xcod3bughunt3r-CAEHP/06-Scanning.md">06 Scanning</a><br>
 <a href="https://github.com/Xcod3bughunt3r/blob/main/Xcod3bughunt3r-CAEHP/07-Cloud-Computing.md">07 Cloud Computing</a><br>
 <a href="https://github.com/Xcod3bughunt3r/blob/main/Xcod3bughunt3r-CAEHP/08-Website-Hacking.md">08 Website Hacking</a><br>
 <a href="https://github.com/Xcod3bughunt3r/blob/main/Xcod3bughunt3r-CAEHP/09-Password-Hacking.md">09 Password Hacking</a><br>
